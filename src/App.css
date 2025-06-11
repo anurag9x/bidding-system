@@ -1,0 +1,18 @@
+:root {
+  --bgcolor: #181818;
+  --white: #c4c4c4;
+  /* --purple: rgba(104, 72, 233, 0.795); */
+  --themeColor: rgb(105, 68, 252);
+  --clouds: #87ceeb;
+}
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+a {
+  font-family: "Roboto", monospace;
+}
+
+p {
+  font-family: "Ubuntu", sans-serif;
+}
